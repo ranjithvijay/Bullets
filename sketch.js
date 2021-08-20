@@ -11,6 +11,7 @@ function setup() {
  wall.thickness = random(22,83);
  bullet.speed = random(223,321);
  bullet.weight = random(30,52);
+   bullet.velocityX= speed;
 
 
  
